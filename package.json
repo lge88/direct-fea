@@ -1,0 +1,25 @@
+{
+  "name": "direct-fea",
+  "version": "0.0.0",
+  "description": "An integrated FEA (Fininte Element Analysis) engine.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geli1988/direct-fea.git"
+  },
+  "keywords": [
+    "FEA",
+    "cloud computing"
+  ],
+  "author": "Li Ge",
+  "license": "BSD",
+  "dependencies": {
+    "backbone": "~0.9.10",
+    "lodash": "~1.0.0-rc.3",
+    "gmsh": "0.0.1",
+    "opensees": "0.0.0"
+  }
+}
