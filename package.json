@@ -20,6 +20,8 @@
     "backbone": "~0.9.10",
     "lodash": "~1.0.0-rc.3",
     "gmsh": "0.0.1",
-    "opensees": "0.0.0"
+    "opensees": "0.0.0",
+    "three.js": "~0.1.0",
+    "fabric": "~1.0.9"
   }
 }
