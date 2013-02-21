@@ -1,1 +1,1 @@
-module.exports = exports = require('./lib/direct-fea.js');
+module.exports = exports = require('./lib/direct-fea-server.js');
